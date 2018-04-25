@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">APP04_105590023</string>
+    <string name="std1">學生1</string>
+    <string name="std2">學生2</string>
+    <string name="std3">學生3</string>
+    <string name="std4">學生4</string>
+    <string name="std5">學生5</string>
+    <string name="std6">學生6</string>
+    <string name="std7">學生7</string>
+    <string name="std8">學生8</string>
+    <string name="std9">學生9</string>
+    <string name="std10">學生10</string>
+    <string name="late">缺席:</string>
+    <string name="clear">清除</string>
+</resources>

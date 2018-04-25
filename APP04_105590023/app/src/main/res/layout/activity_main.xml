@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tw.edu.ntut.csie.app04_105590023.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/std1"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std1" />
+
+        <TextView
+            android:id="@+id/std2"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std2" />
+
+        <TextView
+            android:id="@+id/std3"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std3" />
+
+        <TextView
+            android:id="@+id/std4"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std4" />
+
+        <TextView
+            android:id="@+id/std5"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std5" />
+
+        <TextView
+            android:id="@+id/std6"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std6" />
+
+        <TextView
+            android:id="@+id/std7"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std7" />
+
+        <TextView
+            android:id="@+id/std8"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std8" />
+
+        <TextView
+            android:id="@+id/std9"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std9" />
+
+        <TextView
+            android:id="@+id/std10"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:text="@string/std10" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/clear" />
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/late" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
